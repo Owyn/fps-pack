@@ -1,10 +1,9 @@
 {
 	"files": {
-		"Instruction_english.txt": "8e883a181658390f262e408577ad1469dbac51ad5d0a795c25ca5b863cfb220e",
 		"S1Engine.ini": "12a3cf79c74f1d47dcfbd0104277e6e7288d83e32d71ed4abcbfce91b09dd3e7",
-		"fx_mods_list.txt": "6dbec4e15184a6cddfd14f07b452d79b0a2266ea5fe10e3479028e6ed914afdf",
+		"empty/empty.gpk": "c2c7bbda47e48d9345c88926fdae7e18e44a8b01b1aa5e0ae21aa888de3cf1ca",
 		"index.js": "5c46014fd299b44a237e63ad1f36209e0f250bee983a978a47a0b34ccd89968f",
-		"module.json": "43f27544adc90d7b64bea0089f280383af7cbb6e462b7cbb7a76327bed691203",
+		"module.json": "c017b7085dc36f9080e99b1f5d501eb050163fc56321d3d4bf527af4f2044199",
 		"res/Dharkan_B.gpk": "e5c61137f3671cf7335326e619a0ab5ddc82b9ede0d906669a18f872589cb548",
 		"res/FX_0.gpk": "a879a4940feac8d21484a8464f98fc2a020396d1205d47e102bd6850d697d6e6",
 		"res/FX_A_3M_HotFix.gpk": "084d2e9c993c1390769ed2df744158a9929535308d01c46d20bfd686f742d34a",
@@ -42,8 +41,6 @@
 		"res/FX_O_Hotfix_180618.gpk": "4d5d3b3cd065c561f2516e85ca136d08fbf2ca952c4654e1120ab2141b807d83",
 		"res/PostProcess.gpk": "a58dfbabaab8a0abf718a9f9253703d15f379a9ad9323ca2643243e790e086da",
 		"res/S1_MI.gpk": "dc03067c2c56ca37185b33e89cf80795b3a1a5648d730e04abbd893e94893d11",
-		"setting_migration.js": "1a4c401c438ee0d78c125eb1bee7a6eec9c2615ab09dde566d51de274bd2e098",
-		"to_delete.txt": "bb3bc4a5321585ed9a46d009a1550e43c3120b32b6270d75146420cf23512dac",
-		"Инструкция.txt": "ee8d5c59bbb0f49358d14990cf0b89178a3a09d6ff9df586f50ee68934d002a7"
+		"setting_migration.js": "1a4c401c438ee0d78c125eb1bee7a6eec9c2615ab09dde566d51de274bd2e098"
 	}
 }
