@@ -1,6 +1,7 @@
 {
 	"files": {
 		"Instruction_english.txt": "8e883a181658390f262e408577ad1469dbac51ad5d0a795c25ca5b863cfb220e",
+		"S1Engine.ini": "12a3cf79c74f1d47dcfbd0104277e6e7288d83e32d71ed4abcbfce91b09dd3e7",
 		"fx_mods_list.txt": "6dbec4e15184a6cddfd14f07b452d79b0a2266ea5fe10e3479028e6ed914afdf",
 		"index.js": "5c46014fd299b44a237e63ad1f36209e0f250bee983a978a47a0b34ccd89968f",
 		"module.json": "43f27544adc90d7b64bea0089f280383af7cbb6e462b7cbb7a76327bed691203",
@@ -43,6 +44,6 @@
 		"res/S1_MI.gpk": "dc03067c2c56ca37185b33e89cf80795b3a1a5648d730e04abbd893e94893d11",
 		"setting_migration.js": "1a4c401c438ee0d78c125eb1bee7a6eec9c2615ab09dde566d51de274bd2e098",
 		"to_delete.txt": "bb3bc4a5321585ed9a46d009a1550e43c3120b32b6270d75146420cf23512dac",
-		"Инструкция.txt": "05b1769f2597a17305c21e1edce1112b86c058506ddd997a27dd2c220f114636"
+		"Инструкция.txt": "ee8d5c59bbb0f49358d14990cf0b89178a3a09d6ff9df586f50ee68934d002a7"
 	}
 }
