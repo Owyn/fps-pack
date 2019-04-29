@@ -1,0 +1,17 @@
+{
+	"disableAutoUpdate": false,
+	"name": "FPS-Pack",
+	"category": "client",
+	"description": "Collection of GPK mods that increase your FPS. WARNING: Side effects include missing loading screen images, missing death animations, etc.",
+	"author": "Owyn / HakuryuuDom",
+	"options": {
+        "settingsFile": "config.json",
+        "settingsVersion": 1,
+        "settingsMigrator": "setting_migration.js",
+		"guiName": "Client: FPS-Pack",
+        "niceName": "FPS Pack"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/Owyn/fps-pack/master/"
+	]
+}
